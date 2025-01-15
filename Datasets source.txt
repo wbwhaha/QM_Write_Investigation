@@ -1,0 +1,6 @@
+https://www.gov.uk/government/publications/fast-food-outlets-density-by-local-authority-in-england
+https://data.london.gov.uk/dataset/earnings-place-residence-borough
+https://data.london.gov.uk/dataset/indices-of-deprivation
+https://data.cdrc.ac.uk/dataset/index-multiple-deprivation-imd
+https://data.london.gov.uk/dataset/qualifications-working-age-population-nvq-borough
+https://www.data.gov.uk/dataset/a76f46f9-c10b-4fe7-82f6-aa928471fcd1/land-area-and-population-density-ward-and-borough
